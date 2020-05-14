@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\CS\문법\024Switch02\bin\Debug\024Switch02.exe.config
+C:\Users\user\Desktop\CS\문법\024Switch02\bin\Debug\024Switch02.exe
+C:\Users\user\Desktop\CS\문법\024Switch02\bin\Debug\024Switch02.pdb
+C:\Users\user\Desktop\CS\문법\024Switch02\obj\Debug\024Switch02.csprojAssemblyReference.cache
+C:\Users\user\Desktop\CS\문법\024Switch02\obj\Debug\024Switch02.exe
+C:\Users\user\Desktop\CS\문법\024Switch02\obj\Debug\024Switch02.pdb

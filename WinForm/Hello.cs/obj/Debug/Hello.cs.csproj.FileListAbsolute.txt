@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\CS\WinForm\Hello.cs\bin\Debug\Hello.cs.exe.config
+C:\Users\user\Desktop\CS\WinForm\Hello.cs\bin\Debug\Hello.cs.exe
+C:\Users\user\Desktop\CS\WinForm\Hello.cs\bin\Debug\Hello.cs.pdb
+C:\Users\user\Desktop\CS\WinForm\Hello.cs\obj\Debug\Hello.cs.csprojAssemblyReference.cache
+C:\Users\user\Desktop\CS\WinForm\Hello.cs\obj\Debug\Hello.cs.Form1.resources
+C:\Users\user\Desktop\CS\WinForm\Hello.cs\obj\Debug\Hello.cs.Properties.Resources.resources
+C:\Users\user\Desktop\CS\WinForm\Hello.cs\obj\Debug\Hello.cs.csproj.GenerateResource.cache
+C:\Users\user\Desktop\CS\WinForm\Hello.cs\obj\Debug\Hello.cs.exe
+C:\Users\user\Desktop\CS\WinForm\Hello.cs\obj\Debug\Hello.cs.pdb

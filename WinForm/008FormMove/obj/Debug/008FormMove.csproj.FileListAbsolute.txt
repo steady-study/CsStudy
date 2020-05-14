@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\CS\WinForm\008FormMove\obj\Debug\_008FormMove.FormMove.resources
+C:\Users\user\Desktop\CS\WinForm\008FormMove\obj\Debug\_008FormMove.Properties.Resources.resources
+C:\Users\user\Desktop\CS\WinForm\008FormMove\obj\Debug\008FormMove.csproj.GenerateResource.cache
+C:\Users\user\Desktop\CS\WinForm\008FormMove\bin\Debug\008FormMove.exe.config
+C:\Users\user\Desktop\CS\WinForm\008FormMove\bin\Debug\008FormMove.exe
+C:\Users\user\Desktop\CS\WinForm\008FormMove\bin\Debug\008FormMove.pdb
+C:\Users\user\Desktop\CS\WinForm\008FormMove\obj\Debug\008FormMove.exe
+C:\Users\user\Desktop\CS\WinForm\008FormMove\obj\Debug\008FormMove.pdb
+C:\Users\user\Desktop\CS\WinForm\008FormMove\obj\Debug\008FormMove.csprojAssemblyReference.cache

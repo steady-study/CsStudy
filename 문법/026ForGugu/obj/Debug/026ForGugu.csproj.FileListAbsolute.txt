@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\CS\문법\026ForGugu\bin\Debug\026ForGugu.exe.config
+C:\Users\user\Desktop\CS\문법\026ForGugu\bin\Debug\026ForGugu.exe
+C:\Users\user\Desktop\CS\문법\026ForGugu\bin\Debug\026ForGugu.pdb
+C:\Users\user\Desktop\CS\문법\026ForGugu\obj\Debug\026ForGugu.exe
+C:\Users\user\Desktop\CS\문법\026ForGugu\obj\Debug\026ForGugu.pdb

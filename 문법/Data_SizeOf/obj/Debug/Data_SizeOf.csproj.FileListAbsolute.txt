@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\CS\문법\Data_SizeOf\bin\Debug\Data_SizeOf.exe.config
+C:\Users\user\Desktop\CS\문법\Data_SizeOf\bin\Debug\Data_SizeOf.exe
+C:\Users\user\Desktop\CS\문법\Data_SizeOf\bin\Debug\Data_SizeOf.pdb
+C:\Users\user\Desktop\CS\문법\Data_SizeOf\obj\Debug\Data_SizeOf.exe
+C:\Users\user\Desktop\CS\문법\Data_SizeOf\obj\Debug\Data_SizeOf.pdb
+C:\Users\user\Desktop\CS\문법\Data_SizeOf\obj\Debug\Data_SizeOf.csprojAssemblyReference.cache

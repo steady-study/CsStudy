@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\CS\문법\029While\bin\Debug\029While.exe.config
+C:\Users\user\Desktop\CS\문법\029While\bin\Debug\029While.exe
+C:\Users\user\Desktop\CS\문법\029While\bin\Debug\029While.pdb
+C:\Users\user\Desktop\CS\문법\029While\obj\Debug\029While.csprojAssemblyReference.cache
+C:\Users\user\Desktop\CS\문법\029While\obj\Debug\029While.exe
+C:\Users\user\Desktop\CS\문법\029While\obj\Debug\029While.pdb

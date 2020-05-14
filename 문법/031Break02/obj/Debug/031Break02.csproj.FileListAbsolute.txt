@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\CS\문법\031Break02\bin\Debug\031Break02.exe.config
+C:\Users\user\Desktop\CS\문법\031Break02\bin\Debug\031Break02.exe
+C:\Users\user\Desktop\CS\문법\031Break02\bin\Debug\031Break02.pdb
+C:\Users\user\Desktop\CS\문법\031Break02\obj\Debug\031Break02.exe
+C:\Users\user\Desktop\CS\문법\031Break02\obj\Debug\031Break02.pdb

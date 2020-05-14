@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\CS\WinForm\006FontChange\bin\Debug\006FontChange.exe.config
+C:\Users\user\Desktop\CS\WinForm\006FontChange\bin\Debug\006FontChange.exe
+C:\Users\user\Desktop\CS\WinForm\006FontChange\bin\Debug\006FontChange.pdb
+C:\Users\user\Desktop\CS\WinForm\006FontChange\obj\Debug\_006FontChange.Properties.Resources.resources
+C:\Users\user\Desktop\CS\WinForm\006FontChange\obj\Debug\006FontChange.csproj.GenerateResource.cache
+C:\Users\user\Desktop\CS\WinForm\006FontChange\obj\Debug\006FontChange.exe
+C:\Users\user\Desktop\CS\WinForm\006FontChange\obj\Debug\006FontChange.pdb
+C:\Users\user\Desktop\CS\WinForm\006FontChange\obj\Debug\_006FontChange.FontChange.resources

@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\CS\문법\022If\bin\Debug\022If.exe.config
+C:\Users\user\Desktop\CS\문법\022If\bin\Debug\022If.exe
+C:\Users\user\Desktop\CS\문법\022If\bin\Debug\022If.pdb
+C:\Users\user\Desktop\CS\문법\022If\obj\Debug\022If.csprojAssemblyReference.cache
+C:\Users\user\Desktop\CS\문법\022If\obj\Debug\022If.exe
+C:\Users\user\Desktop\CS\문법\022If\obj\Debug\022If.pdb

@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\CS\WinForm\009FormSkin\bin\Debug\009FormSkin.exe.config
+C:\Users\user\Desktop\CS\WinForm\009FormSkin\bin\Debug\009FormSkin.exe
+C:\Users\user\Desktop\CS\WinForm\009FormSkin\bin\Debug\009FormSkin.pdb
+C:\Users\user\Desktop\CS\WinForm\009FormSkin\obj\Debug\_009FormSkin.Properties.Resources.resources
+C:\Users\user\Desktop\CS\WinForm\009FormSkin\obj\Debug\009FormSkin.csproj.GenerateResource.cache
+C:\Users\user\Desktop\CS\WinForm\009FormSkin\obj\Debug\009FormSkin.exe
+C:\Users\user\Desktop\CS\WinForm\009FormSkin\obj\Debug\009FormSkin.pdb
+C:\Users\user\Desktop\CS\WinForm\009FormSkin\obj\Debug\009FormSkin.csprojAssemblyReference.cache
+C:\Users\user\Desktop\CS\WinForm\009FormSkin\obj\Debug\_009FormSkin.FormSkin.resources

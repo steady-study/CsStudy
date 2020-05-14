@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\CS\문법\028Foreach\bin\Debug\028Foreach.exe.config
+C:\Users\user\Desktop\CS\문법\028Foreach\bin\Debug\028Foreach.exe
+C:\Users\user\Desktop\CS\문법\028Foreach\bin\Debug\028Foreach.pdb
+C:\Users\user\Desktop\CS\문법\028Foreach\obj\Debug\028Foreach.csprojAssemblyReference.cache
+C:\Users\user\Desktop\CS\문법\028Foreach\obj\Debug\028Foreach.exe
+C:\Users\user\Desktop\CS\문법\028Foreach\obj\Debug\028Foreach.pdb

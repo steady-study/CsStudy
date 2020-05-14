@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\CS\문법\Data_Byte\bin\Debug\Data_Byte.exe.config
+C:\Users\user\Desktop\CS\문법\Data_Byte\bin\Debug\Data_Byte.exe
+C:\Users\user\Desktop\CS\문법\Data_Byte\bin\Debug\Data_Byte.pdb
+C:\Users\user\Desktop\CS\문법\Data_Byte\obj\Debug\Data_Byte.csprojAssemblyReference.cache
+C:\Users\user\Desktop\CS\문법\Data_Byte\obj\Debug\Data_Byte.exe
+C:\Users\user\Desktop\CS\문법\Data_Byte\obj\Debug\Data_Byte.pdb

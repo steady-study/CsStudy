@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\CS\WinForm\001LoginForm\bin\Debug\001LoginForm.exe.config
+C:\Users\user\Desktop\CS\WinForm\001LoginForm\bin\Debug\001LoginForm.exe
+C:\Users\user\Desktop\CS\WinForm\001LoginForm\bin\Debug\001LoginForm.pdb
+C:\Users\user\Desktop\CS\WinForm\001LoginForm\obj\Debug\_001LoginForm.LoginForm.resources
+C:\Users\user\Desktop\CS\WinForm\001LoginForm\obj\Debug\_001LoginForm.Properties.Resources.resources
+C:\Users\user\Desktop\CS\WinForm\001LoginForm\obj\Debug\001LoginForm.csproj.GenerateResource.cache
+C:\Users\user\Desktop\CS\WinForm\001LoginForm\obj\Debug\001LoginForm.exe
+C:\Users\user\Desktop\CS\WinForm\001LoginForm\obj\Debug\001LoginForm.pdb

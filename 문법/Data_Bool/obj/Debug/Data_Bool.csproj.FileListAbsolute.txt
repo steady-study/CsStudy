@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\CS\문법\Data_Bool\bin\Debug\Data_Bool.exe.config
+C:\Users\user\Desktop\CS\문법\Data_Bool\bin\Debug\Data_Bool.exe
+C:\Users\user\Desktop\CS\문법\Data_Bool\bin\Debug\Data_Bool.pdb
+C:\Users\user\Desktop\CS\문법\Data_Bool\obj\Debug\Data_Bool.csprojAssemblyReference.cache
+C:\Users\user\Desktop\CS\문법\Data_Bool\obj\Debug\Data_Bool.exe
+C:\Users\user\Desktop\CS\문법\Data_Bool\obj\Debug\Data_Bool.pdb

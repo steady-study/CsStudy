@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\CS\WinForm\007HeaderSort\bin\Debug\007HeaderSort.exe.config
+C:\Users\user\Desktop\CS\WinForm\007HeaderSort\bin\Debug\007HeaderSort.exe
+C:\Users\user\Desktop\CS\WinForm\007HeaderSort\bin\Debug\007HeaderSort.pdb
+C:\Users\user\Desktop\CS\WinForm\007HeaderSort\obj\Debug\_007HeaderSort.Properties.Resources.resources
+C:\Users\user\Desktop\CS\WinForm\007HeaderSort\obj\Debug\007HeaderSorting.csproj.GenerateResource.cache
+C:\Users\user\Desktop\CS\WinForm\007HeaderSort\obj\Debug\007HeaderSort.exe
+C:\Users\user\Desktop\CS\WinForm\007HeaderSort\obj\Debug\007HeaderSort.pdb
+C:\Users\user\Desktop\CS\WinForm\007HeaderSort\obj\Debug\_007HeaderSort.HeaderSorting.resources

@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\CS\WinForm\005TrayIcon\bin\Debug\005TrayIcon.exe.config
+C:\Users\user\Desktop\CS\WinForm\005TrayIcon\bin\Debug\005TrayIcon.exe
+C:\Users\user\Desktop\CS\WinForm\005TrayIcon\bin\Debug\005TrayIcon.pdb
+C:\Users\user\Desktop\CS\WinForm\005TrayIcon\obj\Debug\_005TrayIcon.Properties.Resources.resources
+C:\Users\user\Desktop\CS\WinForm\005TrayIcon\obj\Debug\005TrayIcon.csproj.GenerateResource.cache
+C:\Users\user\Desktop\CS\WinForm\005TrayIcon\obj\Debug\005TrayIcon.exe
+C:\Users\user\Desktop\CS\WinForm\005TrayIcon\obj\Debug\005TrayIcon.pdb
+C:\Users\user\Desktop\CS\WinForm\005TrayIcon\obj\Debug\_005TrayIcon.TrayIcon.resources

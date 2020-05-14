@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\CS\WinForm\002Survey\bin\Debug\002Survey.exe.config
+C:\Users\user\Desktop\CS\WinForm\002Survey\bin\Debug\002Survey.exe
+C:\Users\user\Desktop\CS\WinForm\002Survey\bin\Debug\002Survey.pdb
+C:\Users\user\Desktop\CS\WinForm\002Survey\obj\Debug\_002Survey.SurbeyForm1.resources
+C:\Users\user\Desktop\CS\WinForm\002Survey\obj\Debug\_002Survey.Properties.Resources.resources
+C:\Users\user\Desktop\CS\WinForm\002Survey\obj\Debug\002Survey.csproj.GenerateResource.cache
+C:\Users\user\Desktop\CS\WinForm\002Survey\obj\Debug\002Survey.exe
+C:\Users\user\Desktop\CS\WinForm\002Survey\obj\Debug\002Survey.pdb
+C:\Users\user\Desktop\CS\WinForm\002Survey\obj\Debug\002Survey.csprojAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\CS\문법\020Convert\bin\Debug\020Convert.exe.config
+C:\Users\user\Desktop\CS\문법\020Convert\bin\Debug\020Convert.exe
+C:\Users\user\Desktop\CS\문법\020Convert\bin\Debug\020Convert.pdb
+C:\Users\user\Desktop\CS\문법\020Convert\obj\Debug\020Convert.csprojAssemblyReference.cache
+C:\Users\user\Desktop\CS\문법\020Convert\obj\Debug\020Convert.exe
+C:\Users\user\Desktop\CS\문법\020Convert\obj\Debug\020Convert.pdb

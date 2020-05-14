@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\CS\문법\Data\bin\Debug\Data.exe.config
+C:\Users\user\Desktop\CS\문법\Data\bin\Debug\Data.exe
+C:\Users\user\Desktop\CS\문법\Data\bin\Debug\Data.pdb
+C:\Users\user\Desktop\CS\문법\Data\obj\Debug\Data_Char.csprojAssemblyReference.cache
+C:\Users\user\Desktop\CS\문법\Data\obj\Debug\Data.exe
+C:\Users\user\Desktop\CS\문법\Data\obj\Debug\Data.pdb

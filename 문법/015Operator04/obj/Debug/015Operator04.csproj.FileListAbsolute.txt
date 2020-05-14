@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\CS\문법\015Operator04\bin\Debug\015Operator04.exe.config
+C:\Users\user\Desktop\CS\문법\015Operator04\bin\Debug\015Operator04.exe
+C:\Users\user\Desktop\CS\문법\015Operator04\bin\Debug\015Operator04.pdb
+C:\Users\user\Desktop\CS\문법\015Operator04\obj\Debug\015Operator04.csprojAssemblyReference.cache
+C:\Users\user\Desktop\CS\문법\015Operator04\obj\Debug\015Operator04.exe
+C:\Users\user\Desktop\CS\문법\015Operator04\obj\Debug\015Operator04.pdb

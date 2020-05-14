@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\CS\문법\KeywordLiteral\bin\Debug\KeywordLiteral.exe.config
+C:\Users\user\Desktop\CS\문법\KeywordLiteral\bin\Debug\KeywordLiteral.exe
+C:\Users\user\Desktop\CS\문법\KeywordLiteral\bin\Debug\KeywordLiteral.pdb
+C:\Users\user\Desktop\CS\문법\KeywordLiteral\obj\Debug\KeywordLiteral.csprojAssemblyReference.cache
+C:\Users\user\Desktop\CS\문법\KeywordLiteral\obj\Debug\KeywordLiteral.exe
+C:\Users\user\Desktop\CS\문법\KeywordLiteral\obj\Debug\KeywordLiteral.pdb

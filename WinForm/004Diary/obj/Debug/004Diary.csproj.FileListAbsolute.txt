@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\CS\WinForm\004Diary\bin\Debug\004Diary.exe.config
+C:\Users\user\Desktop\CS\WinForm\004Diary\bin\Debug\004Diary.exe
+C:\Users\user\Desktop\CS\WinForm\004Diary\bin\Debug\004Diary.pdb
+C:\Users\user\Desktop\CS\WinForm\004Diary\obj\Debug\004Diary.csprojAssemblyReference.cache
+C:\Users\user\Desktop\CS\WinForm\004Diary\obj\Debug\_004Diary.Properties.Resources.resources
+C:\Users\user\Desktop\CS\WinForm\004Diary\obj\Debug\004Diary.csproj.GenerateResource.cache
+C:\Users\user\Desktop\CS\WinForm\004Diary\obj\Debug\004Diary.exe
+C:\Users\user\Desktop\CS\WinForm\004Diary\obj\Debug\004Diary.pdb
+C:\Users\user\Desktop\CS\WinForm\004Diary\obj\Debug\_004Diary.Diary.resources

@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\CS\문법\012Operators\bin\Debug\012Operators.exe.config
+C:\Users\user\Desktop\CS\문법\012Operators\bin\Debug\012Operators.exe
+C:\Users\user\Desktop\CS\문법\012Operators\bin\Debug\012Operators.pdb
+C:\Users\user\Desktop\CS\문법\012Operators\obj\Debug\012Operators.exe
+C:\Users\user\Desktop\CS\문법\012Operators\obj\Debug\012Operators.pdb

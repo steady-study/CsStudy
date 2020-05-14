@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\CS\문법\031Break\bin\Debug\031Break.exe.config
+C:\Users\user\Desktop\CS\문법\031Break\bin\Debug\031Break.exe
+C:\Users\user\Desktop\CS\문법\031Break\bin\Debug\031Break.pdb
+C:\Users\user\Desktop\CS\문법\031Break\obj\Debug\031Break.csprojAssemblyReference.cache
+C:\Users\user\Desktop\CS\문법\031Break\obj\Debug\031Break.exe
+C:\Users\user\Desktop\CS\문법\031Break\obj\Debug\031Break.pdb

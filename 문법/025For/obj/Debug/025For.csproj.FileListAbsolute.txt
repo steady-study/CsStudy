@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\CS\문법\025For\bin\Debug\025For.exe.config
+C:\Users\user\Desktop\CS\문법\025For\bin\Debug\025For.exe
+C:\Users\user\Desktop\CS\문법\025For\bin\Debug\025For.pdb
+C:\Users\user\Desktop\CS\문법\025For\obj\Debug\025For.exe
+C:\Users\user\Desktop\CS\문법\025For\obj\Debug\025For.pdb

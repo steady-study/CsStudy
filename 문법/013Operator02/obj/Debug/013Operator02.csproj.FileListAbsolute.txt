@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\CS\문법\013Operator02\bin\Debug\013Operator02.exe.config
+C:\Users\user\Desktop\CS\문법\013Operator02\bin\Debug\013Operator02.exe
+C:\Users\user\Desktop\CS\문법\013Operator02\bin\Debug\013Operator02.pdb
+C:\Users\user\Desktop\CS\문법\013Operator02\obj\Debug\013Operator02.exe
+C:\Users\user\Desktop\CS\문법\013Operator02\obj\Debug\013Operator02.pdb
+C:\Users\user\Desktop\CS\문법\013Operator02\obj\Debug\013Operator02.csprojAssemblyReference.cache

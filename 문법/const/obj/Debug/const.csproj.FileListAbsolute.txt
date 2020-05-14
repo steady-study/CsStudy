@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\const\bin\Debug\@const.exe.config
+C:\Users\user\source\repos\const\bin\Debug\@const.exe
+C:\Users\user\source\repos\const\bin\Debug\@const.pdb
+C:\Users\user\source\repos\const\obj\Debug\const.csprojAssemblyReference.cache
+C:\Users\user\source\repos\const\obj\Debug\@const.exe
+C:\Users\user\source\repos\const\obj\Debug\@const.pdb
+C:\Users\user\Desktop\CS\문법\const\bin\Debug\@const.exe.config
+C:\Users\user\Desktop\CS\문법\const\bin\Debug\@const.exe
+C:\Users\user\Desktop\CS\문법\const\bin\Debug\@const.pdb
+C:\Users\user\Desktop\CS\문법\const\obj\Debug\Const.csprojAssemblyReference.cache
+C:\Users\user\Desktop\CS\문법\const\obj\Debug\@const.exe
+C:\Users\user\Desktop\CS\문법\const\obj\Debug\@const.pdb

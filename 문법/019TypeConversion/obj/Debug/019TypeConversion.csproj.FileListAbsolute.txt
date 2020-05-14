@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\CS\문법\019TypeConversion\bin\Debug\019TypeConversion.exe.config
+C:\Users\user\Desktop\CS\문법\019TypeConversion\bin\Debug\019TypeConversion.exe
+C:\Users\user\Desktop\CS\문법\019TypeConversion\bin\Debug\019TypeConversion.pdb
+C:\Users\user\Desktop\CS\문법\019TypeConversion\obj\Debug\019TypeConversion.csprojAssemblyReference.cache
+C:\Users\user\Desktop\CS\문법\019TypeConversion\obj\Debug\019TypeConversion.exe
+C:\Users\user\Desktop\CS\문법\019TypeConversion\obj\Debug\019TypeConversion.pdb

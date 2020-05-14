@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\CS\문법\Data_Type1\bin\Debug\Data_Type1.exe.config
+C:\Users\user\Desktop\CS\문법\Data_Type1\bin\Debug\Data_Type1.exe
+C:\Users\user\Desktop\CS\문법\Data_Type1\bin\Debug\Data_Type1.pdb
+C:\Users\user\Desktop\CS\문법\Data_Type1\obj\Debug\Data_Type1.exe
+C:\Users\user\Desktop\CS\문법\Data_Type1\obj\Debug\Data_Type1.pdb

@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\CS\문법\Const2\bin\Debug\Const2.exe.config
+C:\Users\user\Desktop\CS\문법\Const2\bin\Debug\Const2.exe
+C:\Users\user\Desktop\CS\문법\Const2\bin\Debug\Const2.pdb
+C:\Users\user\Desktop\CS\문법\Const2\obj\Debug\Const2.csprojAssemblyReference.cache
+C:\Users\user\Desktop\CS\문법\Const2\obj\Debug\Const2.exe
+C:\Users\user\Desktop\CS\문법\Const2\obj\Debug\Const2.pdb

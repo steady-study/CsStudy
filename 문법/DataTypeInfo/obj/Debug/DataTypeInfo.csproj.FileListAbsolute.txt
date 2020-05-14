@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\CS\문법\DataTypeInfo\bin\Debug\DataTypeInfo.exe.config
+C:\Users\user\Desktop\CS\문법\DataTypeInfo\bin\Debug\DataTypeInfo.exe
+C:\Users\user\Desktop\CS\문법\DataTypeInfo\bin\Debug\DataTypeInfo.pdb
+C:\Users\user\Desktop\CS\문법\DataTypeInfo\obj\Debug\DataTypeInfo.csprojAssemblyReference.cache
+C:\Users\user\Desktop\CS\문법\DataTypeInfo\obj\Debug\DataTypeInfo.exe
+C:\Users\user\Desktop\CS\문법\DataTypeInfo\obj\Debug\DataTypeInfo.pdb

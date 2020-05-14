@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\CS\문법\Literal\obj\Debug\Literal.csprojAssemblyReference.cache
+C:\Users\user\Desktop\CS\문법\Literal\bin\Debug\Literal.exe.config
+C:\Users\user\Desktop\CS\문법\Literal\bin\Debug\Literal.exe
+C:\Users\user\Desktop\CS\문법\Literal\bin\Debug\Literal.pdb
+C:\Users\user\Desktop\CS\문법\Literal\obj\Debug\Literal.exe
+C:\Users\user\Desktop\CS\문법\Literal\obj\Debug\Literal.pdb
