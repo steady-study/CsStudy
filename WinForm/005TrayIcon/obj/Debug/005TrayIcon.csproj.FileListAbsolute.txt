@@ -6,3 +6,4 @@ C:\Users\user\Desktop\CS\WinForm\005TrayIcon\obj\Debug\005TrayIcon.csproj.Genera
 C:\Users\user\Desktop\CS\WinForm\005TrayIcon\obj\Debug\005TrayIcon.exe
 C:\Users\user\Desktop\CS\WinForm\005TrayIcon\obj\Debug\005TrayIcon.pdb
 C:\Users\user\Desktop\CS\WinForm\005TrayIcon\obj\Debug\_005TrayIcon.TrayIcon.resources
+C:\Users\user\Desktop\CS\WinForm\005TrayIcon\obj\Debug\005TrayIcon.csprojAssemblyReference.cache

@@ -32,7 +32,7 @@ namespace _005TrayIcon
         private void nyiTray_MouseDoubleClick(object sender, MouseEventArgs e)
         {
             VisibleChange(true, false);     //프로그램 보이고, 트레이아이콘 감춤
-            
+
         }
 
         private void 열기OToolStripMenuItem_Click(object sender, EventArgs e)
@@ -44,8 +44,15 @@ namespace _005TrayIcon
         {
             this.Dispose();         //Dispose : 폼에서 사용되는 관리되지 않는 리소스(크드의 논리와 무관한 데이터들. 
                                     //ex)메뉴, 비트맵, 아이콘, 커서 등등)를 해제할때 사용.
-                       
+
             Application.Exit();     //종료.
+        }
+
+        private void CloseXToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            this.Dispose();
+
+            Application.Exit();
         }
     }
 }

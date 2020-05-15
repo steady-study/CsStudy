@@ -34,7 +34,10 @@
             this.열기OToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.종료XToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.nyiTray = new System.Windows.Forms.NotifyIcon(this.components);
+            this.TrayPopup = new System.Windows.Forms.ContextMenuStrip(this.components);
+            this.종료XToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
             this.cmsPopup.SuspendLayout();
+            this.TrayPopup.SuspendLayout();
             this.SuspendLayout();
             // 
             // cmsPopup
@@ -48,23 +51,38 @@
             // 열기OToolStripMenuItem
             // 
             this.열기OToolStripMenuItem.Name = "열기OToolStripMenuItem";
-            this.열기OToolStripMenuItem.Size = new System.Drawing.Size(178, 22);
+            this.열기OToolStripMenuItem.Size = new System.Drawing.Size(119, 22);
             this.열기OToolStripMenuItem.Text = "열 기(&O)";
             this.열기OToolStripMenuItem.Click += new System.EventHandler(this.열기OToolStripMenuItem_Click);
             // 
             // 종료XToolStripMenuItem
             // 
             this.종료XToolStripMenuItem.Name = "종료XToolStripMenuItem";
-            this.종료XToolStripMenuItem.Size = new System.Drawing.Size(178, 22);
+            this.종료XToolStripMenuItem.Size = new System.Drawing.Size(119, 22);
             this.종료XToolStripMenuItem.Text = "종 료(&X)";
             this.종료XToolStripMenuItem.Click += new System.EventHandler(this.종료XToolStripMenuItem_Click);
             // 
             // nyiTray
             // 
+            this.nyiTray.ContextMenuStrip = this.TrayPopup;
             this.nyiTray.Icon = ((System.Drawing.Icon)(resources.GetObject("nyiTray.Icon")));
             this.nyiTray.Text = "notifyIcon1";
             this.nyiTray.Visible = true;
             this.nyiTray.MouseDoubleClick += new System.Windows.Forms.MouseEventHandler(this.nyiTray_MouseDoubleClick);
+            // 
+            // TrayPopup
+            // 
+            this.TrayPopup.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.종료XToolStripMenuItem1});
+            this.TrayPopup.Name = "TrayPopup";
+            this.TrayPopup.Size = new System.Drawing.Size(181, 48);
+            // 
+            // 종료XToolStripMenuItem1
+            // 
+            this.종료XToolStripMenuItem1.Name = "종료XToolStripMenuItem1";
+            this.종료XToolStripMenuItem1.Size = new System.Drawing.Size(180, 22);
+            this.종료XToolStripMenuItem1.Text = "Close(&X)";
+            this.종료XToolStripMenuItem1.Click += new System.EventHandler(this.CloseXToolStripMenuItem1_Click);
             // 
             // TrayIcon
             // 
@@ -78,6 +96,7 @@
             this.Text = "트레이 아이콘";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Form1_FormClosing);
             this.cmsPopup.ResumeLayout(false);
+            this.TrayPopup.ResumeLayout(false);
             this.ResumeLayout(false);
 
         }
@@ -88,6 +107,8 @@
         private System.Windows.Forms.ToolStripMenuItem 열기OToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem 종료XToolStripMenuItem;
         private System.Windows.Forms.NotifyIcon nyiTray;
+        private System.Windows.Forms.ContextMenuStrip TrayPopup;
+        private System.Windows.Forms.ToolStripMenuItem 종료XToolStripMenuItem1;
     }
 }
 
