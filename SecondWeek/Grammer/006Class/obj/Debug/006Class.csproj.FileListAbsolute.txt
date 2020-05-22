@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\CS\2주차\2주차Grammer\006Class\bin\Debug\006Class.exe.config
+C:\Users\user\Desktop\CS\2주차\2주차Grammer\006Class\bin\Debug\006Class.exe
+C:\Users\user\Desktop\CS\2주차\2주차Grammer\006Class\bin\Debug\006Class.pdb
+C:\Users\user\Desktop\CS\2주차\2주차Grammer\006Class\obj\Debug\006Class.exe
+C:\Users\user\Desktop\CS\2주차\2주차Grammer\006Class\obj\Debug\006Class.pdb
+C:\Users\user\Desktop\CS\2주차\2주차Grammer\006Class\obj\Debug\006Class.csprojAssemblyReference.cache

@@ -56,59 +56,59 @@
             // 
             // picMinimize
             // 
-            this.picMinimize.Location = new System.Drawing.Point(272, -1);
+            this.picMinimize.Location = new System.Drawing.Point(279, 0);
             this.picMinimize.Name = "picMinimize";
-            this.picMinimize.Size = new System.Drawing.Size(28, 27);
+            this.picMinimize.Size = new System.Drawing.Size(17, 17);
             this.picMinimize.TabIndex = 0;
             this.picMinimize.TabStop = false;
             this.picMinimize.Click += new System.EventHandler(this.picMinimize_Click);
             // 
             // picPlay
             // 
-            this.picPlay.Location = new System.Drawing.Point(3, 87);
+            this.picPlay.Location = new System.Drawing.Point(13, 76);
             this.picPlay.Name = "picPlay";
-            this.picPlay.Size = new System.Drawing.Size(25, 27);
+            this.picPlay.Size = new System.Drawing.Size(30, 21);
             this.picPlay.TabIndex = 1;
             this.picPlay.TabStop = false;
             // 
             // picStop
             // 
-            this.picStop.Location = new System.Drawing.Point(50, 87);
+            this.picStop.Location = new System.Drawing.Point(90, 76);
             this.picStop.Name = "picStop";
-            this.picStop.Size = new System.Drawing.Size(25, 27);
+            this.picStop.Size = new System.Drawing.Size(29, 21);
             this.picStop.TabIndex = 2;
             this.picStop.TabStop = false;
             // 
             // picSpeaker
             // 
-            this.picSpeaker.Location = new System.Drawing.Point(112, 87);
+            this.picSpeaker.Location = new System.Drawing.Point(95, 122);
             this.picSpeaker.Name = "picSpeaker";
-            this.picSpeaker.Size = new System.Drawing.Size(29, 27);
+            this.picSpeaker.Size = new System.Drawing.Size(22, 18);
             this.picSpeaker.TabIndex = 3;
             this.picSpeaker.TabStop = false;
             // 
             // picClose
             // 
-            this.picClose.Location = new System.Drawing.Point(306, 0);
+            this.picClose.Location = new System.Drawing.Point(299, 0);
             this.picClose.Name = "picClose";
-            this.picClose.Size = new System.Drawing.Size(27, 26);
+            this.picClose.Size = new System.Drawing.Size(17, 17);
             this.picClose.TabIndex = 4;
             this.picClose.TabStop = false;
             this.picClose.Click += new System.EventHandler(this.picClose_Click);
             // 
             // picPause
             // 
-            this.picPause.Location = new System.Drawing.Point(28, 87);
+            this.picPause.Location = new System.Drawing.Point(52, 76);
             this.picPause.Name = "picPause";
-            this.picPause.Size = new System.Drawing.Size(25, 27);
+            this.picPause.Size = new System.Drawing.Size(31, 21);
             this.picPause.TabIndex = 5;
             this.picPause.TabStop = false;
             // 
             // picFileOpen
             // 
-            this.picFileOpen.Location = new System.Drawing.Point(81, 87);
+            this.picFileOpen.Location = new System.Drawing.Point(15, 121);
             this.picFileOpen.Name = "picFileOpen";
-            this.picFileOpen.Size = new System.Drawing.Size(25, 27);
+            this.picFileOpen.Size = new System.Drawing.Size(29, 20);
             this.picFileOpen.TabIndex = 6;
             this.picFileOpen.TabStop = false;
             // 
@@ -116,7 +116,7 @@
             // 
             this.picSpeakerTrack.Location = new System.Drawing.Point(128, 123);
             this.picSpeakerTrack.Name = "picSpeakerTrack";
-            this.picSpeakerTrack.Size = new System.Drawing.Size(86, 27);
+            this.picSpeakerTrack.Size = new System.Drawing.Size(13, 13);
             this.picSpeakerTrack.TabIndex = 7;
             this.picSpeakerTrack.TabStop = false;
             this.picSpeakerTrack.MouseDown += new System.Windows.Forms.MouseEventHandler(this.picSpeakerTrack_MouseDown);
@@ -125,11 +125,11 @@
             // 
             // lblVolume
             // 
-            this.lblVolume.AutoSize = true;
+            this.lblVolume.Font = new System.Drawing.Font("굴림", 8.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
             this.lblVolume.ForeColor = System.Drawing.Color.White;
-            this.lblVolume.Location = new System.Drawing.Point(238, 87);
+            this.lblVolume.Location = new System.Drawing.Point(157, 123);
             this.lblVolume.Name = "lblVolume";
-            this.lblVolume.Size = new System.Drawing.Size(54, 12);
+            this.lblVolume.Size = new System.Drawing.Size(153, 14);
             this.lblVolume.TabIndex = 8;
             this.lblVolume.Text = "volume :";
             // 
@@ -137,10 +137,10 @@
             // 
             this.lvList.GridLines = true;
             this.lvList.HideSelection = false;
-            this.lvList.Location = new System.Drawing.Point(20, 140);
+            this.lvList.Location = new System.Drawing.Point(13, 151);
             this.lvList.MultiSelect = false;
             this.lvList.Name = "lvList";
-            this.lvList.Size = new System.Drawing.Size(280, 209);
+            this.lvList.Size = new System.Drawing.Size(303, 236);
             this.lvList.TabIndex = 9;
             this.lvList.UseCompatibleStateImageBehavior = false;
             this.lvList.View = System.Windows.Forms.View.Details;
@@ -179,7 +179,8 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(333, 361);
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(34)))), ((int)(((byte)(38)))), ((int)(((byte)(41)))));
+            this.ClientSize = new System.Drawing.Size(330, 400);
             this.ContextMenuStrip = this.cmsMesu;
             this.Controls.Add(this.lvList);
             this.Controls.Add(this.lblVolume);
@@ -210,7 +211,6 @@
             ((System.ComponentModel.ISupportInitialize)(this.picSpeakerTrack)).EndInit();
             this.cmsMesu.ResumeLayout(false);
             this.ResumeLayout(false);
-            this.PerformLayout();
 
         }
 

@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\CS\SecondWeek\Windowsform\008TypingWord\bin\Debug\008TypingWord.exe.config
+C:\Users\user\Desktop\CS\SecondWeek\Windowsform\008TypingWord\bin\Debug\008TypingWord.exe
+C:\Users\user\Desktop\CS\SecondWeek\Windowsform\008TypingWord\bin\Debug\008TypingWord.pdb
+C:\Users\user\Desktop\CS\SecondWeek\Windowsform\008TypingWord\obj\Debug\_008TypingWord.Form1.resources
+C:\Users\user\Desktop\CS\SecondWeek\Windowsform\008TypingWord\obj\Debug\_008TypingWord.Form2.resources
+C:\Users\user\Desktop\CS\SecondWeek\Windowsform\008TypingWord\obj\Debug\_008TypingWord.Form3.resources
+C:\Users\user\Desktop\CS\SecondWeek\Windowsform\008TypingWord\obj\Debug\_008TypingWord.Properties.Resources.resources
+C:\Users\user\Desktop\CS\SecondWeek\Windowsform\008TypingWord\obj\Debug\008TypingWord.csproj.GenerateResource.cache
+C:\Users\user\Desktop\CS\SecondWeek\Windowsform\008TypingWord\obj\Debug\008TypingWord.exe
+C:\Users\user\Desktop\CS\SecondWeek\Windowsform\008TypingWord\obj\Debug\008TypingWord.pdb
+C:\Users\user\Desktop\CS\SecondWeek\Windowsform\008TypingWord\obj\Debug\008TypingWord.csprojAssemblyReference.cache

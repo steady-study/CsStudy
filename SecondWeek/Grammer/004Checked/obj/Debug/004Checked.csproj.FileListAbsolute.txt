@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\CS\SecondWeek\Grammer\004Checked\bin\Debug\004Checked.exe.config
+C:\Users\user\Desktop\CS\SecondWeek\Grammer\004Checked\bin\Debug\004Checked.exe
+C:\Users\user\Desktop\CS\SecondWeek\Grammer\004Checked\bin\Debug\004Checked.pdb
+C:\Users\user\Desktop\CS\SecondWeek\Grammer\004Checked\obj\Debug\004Checked.csprojAssemblyReference.cache
+C:\Users\user\Desktop\CS\SecondWeek\Grammer\004Checked\obj\Debug\004Checked.exe
+C:\Users\user\Desktop\CS\SecondWeek\Grammer\004Checked\obj\Debug\004Checked.pdb

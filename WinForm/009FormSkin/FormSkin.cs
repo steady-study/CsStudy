@@ -20,7 +20,7 @@ namespace _009FormSkin
         private const int SPEKAERBAR_YPOS = 123;    //트랙바 높이
         private const int SPEKAERBAR_WIDTH = 74;    //트랙바 폭, 너비
 
-        private string BackPath = @"C:\Users\user\Desktop\icons";
+        private string BackPath = @"C:\Users\user\Desktop\CS\WinForm\009FormSkin\img";
         private bool BackChange = false;
 
         Point ptMouseCurrentPos;        //마우스 클릭 좌표 지정
@@ -41,10 +41,10 @@ namespace _009FormSkin
         
         private void FormDisPlay()
         {
-            this.BackgroundImage = Image.FromFile(BackPath + @"\indigo.png");
+            //this.BackgroundImage = Image.FromFile(BackPath + @"\indigo.png");
             picSpeakerTrack.Image = Image.FromFile(BackPath + @"\trackBar01.png");
-            picClose.Image = Image.FromFile(BackPath + @"\닫기01.png");
-            picMinimize.Image = Image.FromFile(BackPath + @"\최소화01.png");
+            picClose.Image = Image.FromFile(BackPath + @"\close.png");
+            picMinimize.Image = Image.FromFile(BackPath + @"\minimize1.png");
             picPlay.Image = Image.FromFile(BackPath + @"\play05.png");
             picPause.Image = Image.FromFile(BackPath + @"\pause01.png");
             picStop.Image = Image.FromFile(BackPath + @"\stop02.png");
@@ -54,19 +54,18 @@ namespace _009FormSkin
 
         private void 표준ToolStripMenuItem_Click(object sender, EventArgs e)
         {            
-            this.BackPath = @"C:\Users\user\Desktop\icons";
+            this.BackPath = @"C:\Users\user\Desktop\CS\WinForm\009FormSkin\img";
             BackChange = true;
             this.lblVolume.BackColor = Color.FromArgb(((int)(((byte)(34)))), ((int)(((byte)(38)))), ((int)(((byte)(41)))));
 
-            this.BackColor = Color.Aqua;
-                // Color.FromArgb(((int)(((byte)(34)))), ((int)(((byte)(38)))), ((int)(((byte)(41)))));
+            this.BackColor = Color.FromArgb(((int)(((byte)(34)))), ((int)(((byte)(38)))), ((int)(((byte)(41)))));
 
             Invalidate();   //
         }
 
         private void 가벼운ToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            this.BackPath = @"C:\Users\user\Desktop\icons";
+            this.BackPath = @"C:\Users\user\Desktop\CS\WinForm\009FormSkin\img";
             BackChange = true;
             this.lblVolume.BackColor = Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(154)))), ((int)(((byte)(52)))));
 
@@ -111,7 +110,7 @@ namespace _009FormSkin
                 {
                     picSpeakerTrack.Left = SPEKAERBAR_XPOS;
 
-                    picSpeaker.Image = Image.FromFile(BackPath + @"\닫기.png");
+                    picSpeaker.Image = Image.FromFile(BackPath + @"\yellow.png");
                 }
                 if(picSpeakerTrack.Left >= SPEKAERBAR_XPOS + SPEKAERBAR_WIDTH)
                 {

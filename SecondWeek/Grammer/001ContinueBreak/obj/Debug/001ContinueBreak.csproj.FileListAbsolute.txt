@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\CS\2주차\2주차Grammer\001ContinueBreak\bin\Debug\001ContinueBreak.exe.config
+C:\Users\user\Desktop\CS\2주차\2주차Grammer\001ContinueBreak\bin\Debug\001ContinueBreak.exe
+C:\Users\user\Desktop\CS\2주차\2주차Grammer\001ContinueBreak\bin\Debug\001ContinueBreak.pdb
+C:\Users\user\Desktop\CS\2주차\2주차Grammer\001ContinueBreak\obj\Debug\001ContinueBreak.csprojAssemblyReference.cache
+C:\Users\user\Desktop\CS\2주차\2주차Grammer\001ContinueBreak\obj\Debug\001ContinueBreak.exe
+C:\Users\user\Desktop\CS\2주차\2주차Grammer\001ContinueBreak\obj\Debug\001ContinueBreak.pdb

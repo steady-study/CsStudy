@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\CS\2주차\2주차Grammer\ExampleTest001\bin\Debug\ExampleTest001.exe.config
+C:\Users\user\Desktop\CS\2주차\2주차Grammer\ExampleTest001\bin\Debug\ExampleTest001.exe
+C:\Users\user\Desktop\CS\2주차\2주차Grammer\ExampleTest001\bin\Debug\ExampleTest001.pdb
+C:\Users\user\Desktop\CS\2주차\2주차Grammer\ExampleTest001\obj\Debug\ExampleTest001.exe
+C:\Users\user\Desktop\CS\2주차\2주차Grammer\ExampleTest001\obj\Debug\ExampleTest001.pdb
+C:\Users\user\Desktop\CS\2주차\2주차Grammer\ExampleTest001\obj\Debug\ExampleTest001.csprojAssemblyReference.cache

@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\CS\2주차\2주차Windowsform\004MemoryCheck\bin\Debug\004MemoryCheck.exe.config
+C:\Users\user\Desktop\CS\2주차\2주차Windowsform\004MemoryCheck\bin\Debug\004MemoryCheck.exe
+C:\Users\user\Desktop\CS\2주차\2주차Windowsform\004MemoryCheck\bin\Debug\004MemoryCheck.pdb
+C:\Users\user\Desktop\CS\2주차\2주차Windowsform\004MemoryCheck\obj\Debug\_004MemoryCheck.Form1.resources
+C:\Users\user\Desktop\CS\2주차\2주차Windowsform\004MemoryCheck\obj\Debug\_004MemoryCheck.Properties.Resources.resources
+C:\Users\user\Desktop\CS\2주차\2주차Windowsform\004MemoryCheck\obj\Debug\004MemoryCheck.csproj.GenerateResource.cache
+C:\Users\user\Desktop\CS\2주차\2주차Windowsform\004MemoryCheck\obj\Debug\004MemoryCheck.exe
+C:\Users\user\Desktop\CS\2주차\2주차Windowsform\004MemoryCheck\obj\Debug\004MemoryCheck.pdb
+C:\Users\user\Desktop\CS\SecondWeek\Windowsform\004MemoryCheck\bin\Debug\004MemoryCheck.exe.config
+C:\Users\user\Desktop\CS\SecondWeek\Windowsform\004MemoryCheck\bin\Debug\004MemoryCheck.exe
+C:\Users\user\Desktop\CS\SecondWeek\Windowsform\004MemoryCheck\bin\Debug\004MemoryCheck.pdb
+C:\Users\user\Desktop\CS\SecondWeek\Windowsform\004MemoryCheck\obj\Debug\004MemoryCheck.csprojAssemblyReference.cache
+C:\Users\user\Desktop\CS\SecondWeek\Windowsform\004MemoryCheck\obj\Debug\_004MemoryCheck.Form1.resources
+C:\Users\user\Desktop\CS\SecondWeek\Windowsform\004MemoryCheck\obj\Debug\_004MemoryCheck.Properties.Resources.resources
+C:\Users\user\Desktop\CS\SecondWeek\Windowsform\004MemoryCheck\obj\Debug\004MemoryCheck.csproj.GenerateResource.cache
+C:\Users\user\Desktop\CS\SecondWeek\Windowsform\004MemoryCheck\obj\Debug\004MemoryCheck.exe
+C:\Users\user\Desktop\CS\SecondWeek\Windowsform\004MemoryCheck\obj\Debug\004MemoryCheck.pdb

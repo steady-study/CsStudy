@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\CS\2주차\2주차Windowsform\003ScreenSaver\bin\Debug\003ScreenSaver.exe.config
+C:\Users\user\Desktop\CS\2주차\2주차Windowsform\003ScreenSaver\bin\Debug\003ScreenSaver.exe
+C:\Users\user\Desktop\CS\2주차\2주차Windowsform\003ScreenSaver\bin\Debug\003ScreenSaver.pdb
+C:\Users\user\Desktop\CS\2주차\2주차Windowsform\003ScreenSaver\obj\Debug\_003ScreenSaver.Form1.resources
+C:\Users\user\Desktop\CS\2주차\2주차Windowsform\003ScreenSaver\obj\Debug\_003ScreenSaver.Properties.Resources.resources
+C:\Users\user\Desktop\CS\2주차\2주차Windowsform\003ScreenSaver\obj\Debug\003ScreenSaver.csproj.GenerateResource.cache
+C:\Users\user\Desktop\CS\2주차\2주차Windowsform\003ScreenSaver\obj\Debug\003ScreenSaver.exe
+C:\Users\user\Desktop\CS\2주차\2주차Windowsform\003ScreenSaver\obj\Debug\003ScreenSaver.pdb
+C:\Users\user\Desktop\CS\SecondWeek\Windowsform\003ScreenSaver\bin\Debug\003ScreenSaver.exe.config
+C:\Users\user\Desktop\CS\SecondWeek\Windowsform\003ScreenSaver\bin\Debug\003ScreenSaver.exe
+C:\Users\user\Desktop\CS\SecondWeek\Windowsform\003ScreenSaver\bin\Debug\003ScreenSaver.pdb
+C:\Users\user\Desktop\CS\SecondWeek\Windowsform\003ScreenSaver\obj\Debug\003ScreenSaver.csprojAssemblyReference.cache
+C:\Users\user\Desktop\CS\SecondWeek\Windowsform\003ScreenSaver\obj\Debug\_003ScreenSaver.Form1.resources
+C:\Users\user\Desktop\CS\SecondWeek\Windowsform\003ScreenSaver\obj\Debug\_003ScreenSaver.Properties.Resources.resources
+C:\Users\user\Desktop\CS\SecondWeek\Windowsform\003ScreenSaver\obj\Debug\003ScreenSaver.csproj.GenerateResource.cache
+C:\Users\user\Desktop\CS\SecondWeek\Windowsform\003ScreenSaver\obj\Debug\003ScreenSaver.exe
+C:\Users\user\Desktop\CS\SecondWeek\Windowsform\003ScreenSaver\obj\Debug\003ScreenSaver.pdb

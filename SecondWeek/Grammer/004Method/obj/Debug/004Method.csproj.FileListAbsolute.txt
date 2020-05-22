@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\CS\2주차\2주차Grammer\004Method\bin\Debug\004Method.exe.config
+C:\Users\user\Desktop\CS\2주차\2주차Grammer\004Method\bin\Debug\004Method.exe
+C:\Users\user\Desktop\CS\2주차\2주차Grammer\004Method\bin\Debug\004Method.pdb
+C:\Users\user\Desktop\CS\2주차\2주차Grammer\004Method\obj\Debug\004Method.exe
+C:\Users\user\Desktop\CS\2주차\2주차Grammer\004Method\obj\Debug\004Method.pdb

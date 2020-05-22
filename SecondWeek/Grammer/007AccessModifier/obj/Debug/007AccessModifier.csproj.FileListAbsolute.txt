@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\CS\2주차\2주차Grammer\007AccessModifier\bin\Debug\007AccessModifier.exe.config
+C:\Users\user\Desktop\CS\2주차\2주차Grammer\007AccessModifier\bin\Debug\007AccessModifier.exe
+C:\Users\user\Desktop\CS\2주차\2주차Grammer\007AccessModifier\bin\Debug\007AccessModifier.pdb
+C:\Users\user\Desktop\CS\2주차\2주차Grammer\007AccessModifier\obj\Debug\007AccessModifier.exe
+C:\Users\user\Desktop\CS\2주차\2주차Grammer\007AccessModifier\obj\Debug\007AccessModifier.pdb

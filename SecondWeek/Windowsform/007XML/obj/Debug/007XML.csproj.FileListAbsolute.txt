@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\CS\2주차\2주차Windowsform\007XML\obj\Debug\007XML.csprojAssemblyReference.cache
+C:\Users\user\Desktop\CS\2주차\2주차Windowsform\007XML\obj\Debug\_007XML.Form1.resources
+C:\Users\user\Desktop\CS\2주차\2주차Windowsform\007XML\obj\Debug\_007XML.Properties.Resources.resources
+C:\Users\user\Desktop\CS\2주차\2주차Windowsform\007XML\obj\Debug\007XML.csproj.GenerateResource.cache
+C:\Users\user\Desktop\CS\2주차\2주차Windowsform\007XML\bin\Debug\007XML.exe.config
+C:\Users\user\Desktop\CS\2주차\2주차Windowsform\007XML\bin\Debug\007XML.exe
+C:\Users\user\Desktop\CS\2주차\2주차Windowsform\007XML\bin\Debug\007XML.pdb
+C:\Users\user\Desktop\CS\2주차\2주차Windowsform\007XML\obj\Debug\007XML.exe
+C:\Users\user\Desktop\CS\2주차\2주차Windowsform\007XML\obj\Debug\007XML.pdb
+C:\Users\user\Desktop\CS\SecondWeek\Windowsform\007XML\bin\Debug\007XML.exe.config
+C:\Users\user\Desktop\CS\SecondWeek\Windowsform\007XML\bin\Debug\007XML.exe
+C:\Users\user\Desktop\CS\SecondWeek\Windowsform\007XML\bin\Debug\007XML.pdb
+C:\Users\user\Desktop\CS\SecondWeek\Windowsform\007XML\obj\Debug\_007XML.Form1.resources
+C:\Users\user\Desktop\CS\SecondWeek\Windowsform\007XML\obj\Debug\_007XML.Properties.Resources.resources
+C:\Users\user\Desktop\CS\SecondWeek\Windowsform\007XML\obj\Debug\007XML.csproj.GenerateResource.cache
+C:\Users\user\Desktop\CS\SecondWeek\Windowsform\007XML\obj\Debug\007XML.exe
+C:\Users\user\Desktop\CS\SecondWeek\Windowsform\007XML\obj\Debug\007XML.pdb

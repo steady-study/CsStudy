@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\CS\2주차\2주차Grammer\002MultiArray\bin\Debug\002MultiArray.exe.config
+C:\Users\user\Desktop\CS\2주차\2주차Grammer\002MultiArray\bin\Debug\002MultiArray.exe
+C:\Users\user\Desktop\CS\2주차\2주차Grammer\002MultiArray\bin\Debug\002MultiArray.pdb
+C:\Users\user\Desktop\CS\2주차\2주차Grammer\002MultiArray\obj\Debug\002MultiArray.exe
+C:\Users\user\Desktop\CS\2주차\2주차Grammer\002MultiArray\obj\Debug\002MultiArray.pdb
+C:\Users\user\Desktop\CS\2주차\2주차Grammer\002MultiArray\obj\Debug\002MultiArray.csprojAssemblyReference.cache

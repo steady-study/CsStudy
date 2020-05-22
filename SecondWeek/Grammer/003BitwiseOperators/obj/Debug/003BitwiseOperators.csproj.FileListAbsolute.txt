@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\CS\2주차\2주차Grammer\003BitwiseOperators\bin\Debug\003BitwiseOperators.exe.config
+C:\Users\user\Desktop\CS\2주차\2주차Grammer\003BitwiseOperators\bin\Debug\003BitwiseOperators.exe
+C:\Users\user\Desktop\CS\2주차\2주차Grammer\003BitwiseOperators\bin\Debug\003BitwiseOperators.pdb
+C:\Users\user\Desktop\CS\2주차\2주차Grammer\003BitwiseOperators\obj\Debug\003BitwiseOperators.csprojAssemblyReference.cache
+C:\Users\user\Desktop\CS\2주차\2주차Grammer\003BitwiseOperators\obj\Debug\003BitwiseOperators.exe
+C:\Users\user\Desktop\CS\2주차\2주차Grammer\003BitwiseOperators\obj\Debug\003BitwiseOperators.pdb

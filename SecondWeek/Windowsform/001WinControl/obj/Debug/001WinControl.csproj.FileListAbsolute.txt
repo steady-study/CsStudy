@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\CS\2주차\2주차Windowsform\001WinControl\obj\Debug\_001WinControl.Properties.Resources.resources
+C:\Users\user\Desktop\CS\2주차\2주차Windowsform\001WinControl\obj\Debug\001WinControl.csproj.GenerateResource.cache
+C:\Users\user\Desktop\CS\2주차\2주차Windowsform\001WinControl\bin\Debug\001WinControl.exe.config
+C:\Users\user\Desktop\CS\2주차\2주차Windowsform\001WinControl\bin\Debug\001WinControl.exe
+C:\Users\user\Desktop\CS\2주차\2주차Windowsform\001WinControl\bin\Debug\001WinControl.pdb
+C:\Users\user\Desktop\CS\2주차\2주차Windowsform\001WinControl\obj\Debug\001WinControl.exe
+C:\Users\user\Desktop\CS\2주차\2주차Windowsform\001WinControl\obj\Debug\001WinControl.pdb
+C:\Users\user\Desktop\CS\2주차\2주차Windowsform\001WinControl\obj\Debug\_001WinControl.webDownload.resources
+C:\Users\user\Desktop\CS\SecondWeek\Windowsform\001WinControl\bin\Debug\001WinControl.exe.config
+C:\Users\user\Desktop\CS\SecondWeek\Windowsform\001WinControl\bin\Debug\001WinControl.exe
+C:\Users\user\Desktop\CS\SecondWeek\Windowsform\001WinControl\bin\Debug\001WinControl.pdb
+C:\Users\user\Desktop\CS\SecondWeek\Windowsform\001WinControl\obj\Debug\001WinControl.csprojAssemblyReference.cache
+C:\Users\user\Desktop\CS\SecondWeek\Windowsform\001WinControl\obj\Debug\_001WinControl.webDownload.resources
+C:\Users\user\Desktop\CS\SecondWeek\Windowsform\001WinControl\obj\Debug\_001WinControl.Properties.Resources.resources
+C:\Users\user\Desktop\CS\SecondWeek\Windowsform\001WinControl\obj\Debug\001WinControl.csproj.GenerateResource.cache
+C:\Users\user\Desktop\CS\SecondWeek\Windowsform\001WinControl\obj\Debug\001WinControl.exe
+C:\Users\user\Desktop\CS\SecondWeek\Windowsform\001WinControl\obj\Debug\001WinControl.pdb

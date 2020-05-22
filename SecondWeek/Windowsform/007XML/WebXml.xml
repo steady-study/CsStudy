@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="EUC-KR"?>
+<xml_reply version="1.0">
+<human>
+    <human_entry>
+        <title name="임정희" />
+    </human_entry>
+    <human_entry>
+        <title name="홍길동" />
+    </human_entry>
+    <human_entry>
+        <title name="김갑수" />
+    </human_entry>
+    <human_entry>
+        <title name="김지현" />
+    </human_entry>
+    <human_entry>
+        <title name="박현지" />
+    </human_entry>
+    <human_entry>
+        <title name="최연" />
+    </human_entry>
+    <human_entry>
+        <title name="경인" />
+    </human_entry>
+</human>
+</xml_reply>

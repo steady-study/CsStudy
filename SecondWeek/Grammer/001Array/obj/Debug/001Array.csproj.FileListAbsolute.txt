@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\CS\2주차\2주차Grammer\001Array\bin\Debug\001Array.exe.config
+C:\Users\user\Desktop\CS\2주차\2주차Grammer\001Array\bin\Debug\001Array.exe
+C:\Users\user\Desktop\CS\2주차\2주차Grammer\001Array\bin\Debug\001Array.pdb
+C:\Users\user\Desktop\CS\2주차\2주차Grammer\001Array\obj\Debug\001Array.csprojAssemblyReference.cache
+C:\Users\user\Desktop\CS\2주차\2주차Grammer\001Array\obj\Debug\001Array.exe
+C:\Users\user\Desktop\CS\2주차\2주차Grammer\001Array\obj\Debug\001Array.pdb
